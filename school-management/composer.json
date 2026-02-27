@@ -1,0 +1,11 @@
+{
+    "name": "myvendor/school-management",
+    "autoload": {
+        "psr-4": {
+            "SchoolManagement\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
